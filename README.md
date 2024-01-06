@@ -15,7 +15,7 @@ Enter following lines in dosbox window. Mount NASM folder to a Drive  using "mou
 ## Logic
 ### 1. Pacman😃 and interface
 The movement of Pac-Man in the given code is controlled by arrow keys. Press any key to start the game. The movement of Pac-Man in the given code is controlled by arrow keys. During the game any key other than the arrow keys will exit the game. Colliding with the ghosts will also result in end of the game. The score is displayed on the top left corner. You have to score 150 points to win the game.
-##### 1.1 Sound
+#### 1.1 Sound
 Pacman music is played at the start of the game. "sound:" function is used to play music in the home screen. Function is also called at end of the program once to stop the beep sound which remains stuck in speakers. [Playing sound using imf files is explained completely in this video(Check video description for source code).](https://www.youtube.com/watch?v=ifqq7reyNa0)
 ### 2. Ghosts
 Ghosts use a Targeting system to determine which direction to travel. The decision is between 3 new tiles and turning around is not an option. It will calculate distances from all the possible moves and move to the one with shortest distance.
@@ -46,3 +46,5 @@ Ghosts cannot go up from these tiles. Hence they will keep looping around near t
 ## Screenshots
 ![Home Screen](https://github.com/Usman-N123/Pacman-Nasm-Assembly/assets/155843127/9f5ce47b-fbc6-43f1-be6a-6b14117682b1)
 ![Gameover](https://github.com/Usman-N123/Pacman-Nasm-Assembly/assets/155843127/2ff4f2ac-efff-49ba-9d2a-6b3bce3315bf)
+
+Feel free to contact me if any help needed. Info in bio.
