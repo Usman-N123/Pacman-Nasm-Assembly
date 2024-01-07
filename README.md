@@ -1,16 +1,15 @@
 # Pacman-Nasm-Assembly
 Welcome to the classic Pacman game brought to life in NASM assembly 8086! Dive into nostalgic gaming with this assembly-coded Pacman adventure. Navigate mazes, gobble dots, evade ghosts, and enjoy the thrill of retro gaming. Let's relive the arcade era together!
 
-## Files
-- **Pacman.asm:**  The assembly file in which NASM code is written.
-- **P1.com:**  executable file or compiled file in MS-DOS
-- **pacman.imf:** This is a Music file that is used to play sound at start of the program. It contains sound data. More about sound is given below. Refrences: (https://moddingwiki.shikadi.net/wiki/IMF_Format) (https://www.vgmpf.com/Wiki/index.php?title=IMF)
-
 ## How To Run
 Using Dosbox compiler to run nasm files. [Install Nasm and Dosbox according to the instructions in the link](https://theiteducation.com/how-to-install-nasm-on-windows-10-how-to-type-and-run-assembly-language-program/).
 Enter following lines in dosbox window. Mount NASM folder to a Drive  using "mount [driveletter] [NASM Path]".
 
 ![Dosbox Instructions](https://github.com/Usman-N123/Pacman-Nasm-Assembly/assets/155843127/694f3149-6195-43ff-99ad-f6e7bbdc6df7)
+## Files
+- **Pacman.asm:**  The assembly file in which NASM code is written.
+- **P1.com:**  executable file or compiled file in MS-DOS
+- **pacman.imf:** This is a Music file that is used to play sound at start of the program. It contains sound data. More about sound is given below. Refrences: (https://moddingwiki.shikadi.net/wiki/IMF_Format) (https://www.vgmpf.com/Wiki/index.php?title=IMF)
 
 ## Logic
 ### 1. Pacman😃 and interface
